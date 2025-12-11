@@ -15,11 +15,3 @@ ReactとTypeScriptで実装された、シンプルな段階的（ステップ�
 * React
 * TypeScript
 * CSS (インラインスタイル)
-
-## 📦 インストールと実行方法
-
-手元の環境で動作させるには、以下のコマンドを実行してください。
-
-1. **リポジトリのクローン**
-   ```bash
-   git clone [https://github.com/あなたのユーザー名/リポジトリ名.git](https://github.com/あなたのユーザー名/リポジトリ名.git)
